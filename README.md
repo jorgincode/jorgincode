@@ -57,7 +57,7 @@ Comandos Git Interativo (em breve eBook!) 📘
 — Jorginho, dev em missão 🚀
 
 <p align="center">
-  <img src="https://github.com/jorgincode/jorgincode/blob/main/Jorgincode%20Banner_new.png" alt="Jorgincode Banner" width="100%">
+  <img src="https://github.com/jorgincode/jorgincode/blob/main/Jorgincode%20Banner_new.png" alt="Jorgincode Banner" width="60%">
 </p>
 <!---
 jorgincode/jorgincode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
