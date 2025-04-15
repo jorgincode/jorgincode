@@ -4,7 +4,7 @@
 <h3 align="center">Pai, Dev em ascensão e apaixonado por tecnologia 💻🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Full-Stack+em+formação;Python%2C+SQL+e+JavaScript+na+veia!;Construindo+projetos+com+alma+e+código&center=true&width=500&height=45" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Full-Stack+em+formação;Python%2C+SQL+e+JavaScript+na+veia!;Construindo+projetos+com+alma+e+código&center=true&width=500&height=45" />
 </p>
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Full-Stack+em+formação;Python%2C+SQL+e+JavaScript+na+veia!;Construindo+projetos+com+alma+e+código&center=true&width=500&height=45" />
