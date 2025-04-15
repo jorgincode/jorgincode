@@ -1,8 +1,8 @@
 <!-- README para o perfil do GitHub de Jorginho -->
 
-<p align="center">
+<div align="center" display="inline-block">
   <img src="https://github.com/jorgincode/jorgincode/blob/main/Jorgincode%20Banner_new.png" alt="Jorgincode Banner" width="80%">
-</p>
+</div>
 
 <h1 align="center">👋 Hey, eu sou o Jorginho!</h1>
 <h3 align="center">Pai, Dev em ascensão e apaixonado por tecnologia 💻🚀</h3>
