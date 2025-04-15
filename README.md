@@ -1,9 +1,5 @@
 <!-- README para o perfil do GitHub de Jorginho -->
 
-<div align="center" display="inline-block">
-  <img src="https://github.com/jorgincode/jorgincode/blob/main/Jorgincode%20Banner_new.png" alt="Jorgincode Banner" width="80%">
-</div>
-
 <h1 align="center">👋 Hey, eu sou o Jorginho!</h1>
 <h3 align="center">Pai, Dev em ascensão e apaixonado por tecnologia 💻🚀</h3>
 
@@ -60,6 +56,9 @@ Comandos Git Interativo (em breve eBook!) 📘
 “A jornada é longa, mas o código é meu guia. Cada commit é uma conquista.” 🧭
 — Jorginho, dev em missão 🚀
 
+<p align="center">
+  <img src="https://github.com/jorgincode/jorgincode/blob/main/Jorgincode%20Banner_new.png" alt="Jorgincode Banner" width="100%">
+</p>
 <!---
 jorgincode/jorgincode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
