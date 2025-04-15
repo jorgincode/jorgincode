@@ -41,7 +41,7 @@
 ☁️ Explorando: Google Cloud | APIs RESTful | Docker (em breve)
 🧠 Projetos e Práticas
 API RESTful com Flask 🧩
-
+```
 HTML Playground 🌐
 
 Comandos Git Interativo (em breve eBook!) 📘
