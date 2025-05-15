@@ -4,7 +4,7 @@
 <h3 align="center">Dev em ascensão, apaixonado por tecnologia 💻🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Full-Stack+em+forma%C3%A7%C3%A3o;Python%2C+SQL+e+JavaScript+na+veia!;Construindo+projetos+com+alma+e+c%C3%B3digo&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Full-Stack+em+forma%C3%A7%C3%A3o;Node.js%2C+SQL+e+JavaScript+na+veia!;Construindo+projetos+com+alma+e+c%C3%B3digo&center=true&width=500&height=45" />
 </p>
 
 <p align="center">
