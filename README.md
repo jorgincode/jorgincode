@@ -23,7 +23,6 @@
 ---
 
 🌪️ Código não é só lógica — é arte em linhas indomadas  
-🐍 Escrevo Python como quem escreve versos tortos  
 🧠 Errar, debugar, rir... e errar de novo — faz parte do ritual  
 💻 Um rebelde digital: fujo do padrão, crio meu próprio framework de vida  
 🪄 Deployo sonhos, versiono aprendizados, commito coragem  
