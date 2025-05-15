@@ -15,7 +15,6 @@
 
 ### 👨‍💻 Sobre mim
 - 🎯 Focado em transição de carreira com propósito
-- 🐍 Amante de Python e automações inteligentes
 - 💾 Apaixonado por banco de dados e lógica
 - 🌐 Explorando Front-End com **React + TypeScript**
 - 🤖 Entusiasta de Git, APIs, segurança e boas práticas
