@@ -1,7 +1,7 @@
 <!-- README para o perfil do GitHub de Jorginho -->
 
 <h1 align="center">👋 Hey, eu sou o Jorginho!</h1>
-<h3 align="center">Pai, Dev em ascensão, apaixonado por tecnologia e criador de caos bonito com código 💻🚀</h3>
+<h3 align="center">Dev em ascensão, apaixonado por tecnologia 💻🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Full-Stack+em+forma%C3%A7%C3%A3o;Python%2C+SQL+e+JavaScript+na+veia!;Construindo+projetos+com+alma+e+c%C3%B3digo&center=true&width=500&height=45" />
@@ -15,7 +15,7 @@
 
 ### 👨‍💻 Sobre mim
 - 🎯 Focado em transição de carreira com propósito
-- 💾 Apaixonado por banco de dados e lógica
+- 💾 Apaixonado lógica
 - 🌐 Explorando Front-End com **React + TypeScript**
 - 🤖 Entusiasta de Git, APIs, segurança e boas práticas
 
@@ -50,7 +50,6 @@
 
 ### 📚 Estudando com foco
 - Full-Stack Web Dev com pitadas de rebeldia na Mate Academy
-- Python + SQL com projetos reais
 - React + Node.js pra criar aplicações com alma
 - Fundamentos de **Git**, comandos de terminal, versionamento avançado
 - Boas práticas de código limpo, componentização e deploy
@@ -62,7 +61,7 @@
 ```bash
 🎨 Front-End: HTML5 | CSS3 | JavaScript | React | TypeScript
 🛠️ Ferramentas: Git | GitHub | VS Code | Postman | Linux Terminal
-💻 Back-End: Python | Flask | SQL | SQLite | PostgreSQL
+💻 Back-End: Node.js | SQL | Angular | Vue
 ☁️ Explorando: Google Cloud | APIs RESTful | Docker (em breve)
 🧠 Projetos e Práticas
 API RESTful com Flask 🧩
