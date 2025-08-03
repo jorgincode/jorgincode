@@ -1,6 +1,6 @@
 <!-- README para o perfil do GitHub de Jorginho -->
 
-<h1 align="center">Hey, eu sou o Jorginho!</h1>
+<h1 align="center">Oi, eu sou o Jorge!</h1>
 <h3 align="center">Dev em ascensão, apaixonado por tecnologia</h3>
 
 <p align="center">
