@@ -15,7 +15,7 @@
 
 ### Sobre mim
 - Focado em transição de carreira com propósito
-- Apaixonado lógica
+- Apaixonado por lógica
 - Explorando Front-End com **React + TypeScript**
 - Entusiasta de Git, APIs, segurança e boas práticas
 
@@ -23,21 +23,18 @@
 
 Código não é só lógica — é arte em linhas indomadas  
 Errar, debugar, rir... e errar de novo — faz parte do ritual  
-Um rebelde digital: fujo do padrão, crio meu próprio framework de vida  
-Deployo sonhos, versiono aprendizados, commito coragem  
-Dev em jornada: entre um `git push` e outro, planejo dominar o mundo (com café e memes)
 
 ---
 
 ### Tech Toolbox  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -49,18 +46,17 @@ Dev em jornada: entre um `git push` e outro, planejo dominar o mundo (com café 
 ---
 
 ### Estudando com foco
-- Full-Stack Web Dev com pitadas de rebeldia na Mate Academy
+- Full-Stack Web Developer na Mate Academy Brasil
 - React + Node.js pra criar aplicações com alma
 - Fundamentos de **Git**, comandos de terminal, versionamento avançado
 - Boas práticas de código limpo, componentização e deploy
-- **Inglês técnico e conversação** com apoio da Luma 💬 pra voar alto no mundo dev
 
 ---
 
 ### Tech Stack
 ```bash
 Front-End: HTML5 | CSS3 | JavaScript | React | TypeScript
-Ferramentas: Git | GitHub | VS Code | Postman | Linux Terminal
+Ferramentas: Git | GitHub | VS Code
 Back-End: Node.js | SQL | Angular | Vue
 Explorando: Google Cloud | APIs RESTful | Docker (em breve)
 Projetos e Práticas
@@ -97,8 +93,6 @@ Portfólio pessoal com React + Tailwind
 ---
 
 “Na dúvida, versiona. No caos, refatora. No erro, aprende. No commit, segue.”  
-
-“A jornada é longa, mas o código é meu guia. Cada commit é uma conquista.”
 
 <p align="center">
   <img src="https://github.com/jorgincode/jorgincode/blob/main/Jorgincode%20Banner_new.png" alt="Jorgincode Banner" width="60%">
