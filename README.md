@@ -80,7 +80,8 @@ Portfólio pessoal com React + Tailwind
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jorgincode&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgincode&layout=compact&theme=radical" height="150"/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgincode&layout=compact&theme=radical)
+
 </p>
 
 ---
