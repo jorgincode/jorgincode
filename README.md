@@ -21,11 +21,6 @@
 
 ---
 
-Código não é só lógica — é arte em linhas indomadas  
-Errar, debugar, rir... e errar de novo — faz parte do ritual  
-
----
-
 ### Tech Toolbox  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,13 +30,6 @@ Errar, debugar, rir... e errar de novo — faz parte do ritual
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
----
-
-### Atualmente construindo
-- `Jorginho's Web Development Playground` 
-  Um espaço criativo com projetos em **HTML, CSS, JavaScript e React**  
-- Uma **API RESTful de Gerenciamento de Tarefas** com Flask + SQLite/PostgreSQL
 
 ---
 
@@ -62,11 +50,6 @@ Explorando: Google Cloud | APIs RESTful | Docker (em breve)
 Projetos e Práticas
 API RESTful com Flask
 ```
-HTML Playground
-
-Comandos Git Interativo (em breve eBook!)
-
----
 
 ### Projetos em construção
 **API RESTful de Gerenciamento de Tarefas**  
@@ -92,9 +75,6 @@ Portfólio pessoal com React + Tailwind
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jgrei.junior@gmail.com)
 
 ---
-
-“Na dúvida, versiona. No caos, refatora. No erro, aprende. No commit, segue.”  
-
 <p align="center">
   <img src="https://github.com/jorgincode/jorgincode/blob/main/Jorgincode%20Banner_new.png" alt="Jorgincode Banner" width="60%">
 </p>
