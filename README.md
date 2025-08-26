@@ -15,7 +15,7 @@
 
 ## 🛠️ Tech Stack
 - **Front-End:** HTML5, CSS3, JavaScript (ES6+), React, TypeScript  
-- **Back-End:** Node.js, SQL (PostgreSQL), Flask (Python)  
+- **Back-End:** Node.js, SQL (PostgreSQL)  
 - **Ferramentas:** Git, GitHub, VS Code, Docker (iniciando)  
 - **Práticas:** Código limpo, componentização, APIs RESTful, Deploy (Vercel/GitHub Pages)  
 
