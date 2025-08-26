@@ -5,11 +5,22 @@
 
 ---
 
-## Projetos em Destaque
-- 🎮 [2048 Game](#) → lógica completa em JS puro
-- 🌐 [Landing Page Portfolio](#) → página responsiva, deploy no Vercel
-- 📊 [API RESTful de Tarefas](#) → Flask + PostgreSQL + JWT
-- 🎨 [Frontend Mentor Challenges](#)
+## 🚀 Projetos em Destaque
+
+- 🎮 [2048 Game](https://jorgincode.github.io/js_2048_game/)  
+  → Implementação completa da lógica do jogo em **JavaScript puro**.
+
+- 🌐 [Creative Bakery Landing Page](https://jorgincode.github.io/layout_creativeBakery/)  
+  → Página responsiva, deploy no **Vercel**.  
+  🔗 [Design no Figma](https://www.figma.com/design/dY3izAm0Vspsmra4lQWQIP/Bakerlab_FE-students?node-id=11342-1117&p=f)
+
+- 🌐 [Eco Cosmetics Landing Page](https://jorgincode.github.io/Eco_cosmetics/)  
+  → Página responsiva, deploy no **Vercel**.  
+  🔗 [Design no Figma](https://www.figma.com/design/Fz588JKGuPS2Bk21De4KE5/Brand-of-eco-cosmetics-_FE-students?node-id=21779-631)
+
+- 🌐 [Kickstarter Landing Page](https://jorgincode.github.io/Kickstarter/)  
+  → Página responsiva, deploy no **Vercel**.  
+  🔗 [Design no Figma](https://www.figma.com/design/Ujp7bCFuvuJlkn8TSbQPSZ/Kickstarter_FE-students?node-id=19655-32&p=f)
 
 ---
 
